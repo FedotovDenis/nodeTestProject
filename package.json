@@ -1,0 +1,21 @@
+{
+  "name": "nodetestproject",
+  "version": "1.0.0",
+  "description": "NodeJS Course for test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Denis Fedotov",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
